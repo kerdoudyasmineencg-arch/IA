@@ -1,4 +1,12 @@
-# 🔍 Rapport de Projet — Détection de Fraude dans les Notes de Frais et Remboursements
+# KERDOUD YASMINE
+
+<img src="https://github.com/kerdoudyasmineencg-arch/DS-1/blob/main/22005999-Kerdoud%20yasmine/Yasmine%20kerdoud%20CAC2.jpg" style="height:100px;margin-right:100px"/>
+
+# CAC2
+
+# 22005999
+
+#  Rapport de Projet — Détection de Fraude dans les Notes de Frais et Remboursements
 
 > **Thème :** Audit financier & Détection d'anomalies  
 > **Type de tâche :** Classification binaire supervisée  
